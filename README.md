@@ -1,4 +1,4 @@
-When does a Physical system compute. 
+When does a Physical system compute?
 
 From my understanding every time we type a line of code its considered to be an abstract theory, the computer then encodes the theory into a physical representation the of what we have scripted it then proceeds to turn this physical representation into an abstract output for example the answer to a maths problem. Another important concept brought up is the ‘representation relation’ It is described in the paper to cross ‘the divide between the abstract and the physical’ does that mean it is the process by which an input ( a line of code) to something physical that can then go through computation? Is it even a process?
 
