@@ -1,4 +1,4 @@
-## When does a Physical system compute? [1] ##33-57
+## When does a Physical system compute? [1] ##
   
 The research could suggest, every time we type a line of code its considered to be an abstract theory. The computer then encodes this theory into a physical representation of what we have coded. It then proceeds to turn this physical representation into an abstract output, for example the answer to a maths problem. Another important concept brought up is the ‘representation relation’. It is described to cross ‘the divide between the abstract and the physical’. 
 The idea of encoded communication (example being hieroglyphics) was an interesting point. The similarities of hieroglyphics to modern day encoded communication is apparent, Morse code for example. The research seems to indicate turning the abstract ‘code’ or the hieroglyphic into a form human can understand is a form of computation where we the humans are the computers. When humans use flowcharts as described in [2] the link between computers is more apparent. As argued later flowcharts makes humans think as a computer would, step by step.
